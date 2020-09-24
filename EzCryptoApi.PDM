@@ -1,0 +1,215 @@
+[Root]
+Most Recent Package=DepEzCryptoApi
+Most Recent Deploy=Web Deployment 1
+
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Package (2)
+Controls Design-Time Support=Yes
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Files Found]
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Files Released]
+EzCryptoApi.CHI=
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Missing Dependency Information]
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\rsaenh.dll=
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\enhsig.dll=
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Out-of-Date Dependency Information]
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+c:\my documents\visual basic\activex\activex control\copy of cryptoapi\test\rsaenh.dll=
+c:\my documents\visual basic\activex\activex control\copy of cryptoapi\test\enhsig.dll=
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Project2.vbp=
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Project2.vbw=
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Test_Form1.frm=
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Files Removed]
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Files In Project]
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\EzCryptoApi.ocx=Yes
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Setup1.exe=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\rsaenh.dll=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\enhsig.dll=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\EzCryptoApi.chm=Yes
+C:\WINDOWS\SYSTEM\hhctrl.ocx=Yes
+C:\WINDOWS\SYSTEM\itss.dll=Yes
+C:\WINDOWS\SYSTEM\itircl.dll=Yes
+C:\WINDOWS\SYSTEM\HH.EXE=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Project2.vbp=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Project2.vbw=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Test_Form1.frm=Yes
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Configure Registry Files]
+Applicable=No
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Install Locations]
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\EzCryptoApi.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Setup1.exe=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=$(WinSysPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\rsaenh.dll=$(WinSysPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\enhsig.dll=$(WinSysPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\EzCryptoApi.chm=$(WinSysPath)
+C:\WINDOWS\SYSTEM\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itss.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itircl.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\HH.EXE=$(WinSysPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Project2.vbp=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Project2.vbw=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Test_Form1.frm=$(AppPath)
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Configure Shared Files]
+Applicable=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Project2.vbp=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Project2.vbw=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Test_Form1.frm=No
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Distribution]
+Type=multi
+Size=1.44 MB
+Title=EzCryptoApi ActiveX Control
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|Package]
+PackageFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Package (2)
+ProjectFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test
+ServerSideCab=
+File1=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Package (2)\setup.exe
+File2=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Package (2)\Setup.Lst
+File3=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Package (2)\EzCryp1.CAB
+File4=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\Package (2)\EzCryp2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|IconGroups]
+Group0=EzCryptoApi
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|EzCryptoApi ActiveX Control Standard Setup|EzCryptoApi]
+Icon1=EzCryptoApi.chm
+Title1=EzCryptoApi Help
+StartIn1=$(WinSysPath)
+Key1=Icon1
+Icon2=Project2.vbp
+Title2=VB6 Sample
+StartIn2=$(AppPath)
+Key2=Icon2
+
+
+[Package|DepEzCryptoApi|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test
+Controls Design-Time Support=Yes
+
+[Package|DepEzCryptoApi|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DepEzCryptoApi|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DepEzCryptoApi|Files Found]
+
+[Package|DepEzCryptoApi|Files Released]
+EzCryptoApi.CHI=
+
+[Package|DepEzCryptoApi|Missing Dependency Information]
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\rsaenh.dll=
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\enhsig.dll=
+
+[Package|DepEzCryptoApi|Out-of-Date Dependency Information]
+
+[Package|DepEzCryptoApi|Files Added]
+C:\WINDOWS\SYSTEM\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\rsaenh.dll=
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\enhsig.dll=
+
+[Package|DepEzCryptoApi|Files Removed]
+c:\my documents\visual basic\activex\activex control\copy of cryptoapi\test\ezcryptoapi.chm=
+c:\windows\system\hh.exe=
+c:\windows\system\hhctrl.ocx=
+c:\windows\system\itircl.dll=
+c:\windows\system\itss.dll=
+
+[Package|DepEzCryptoApi|Files In Project]
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\EzCryptoApi.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Test\EzCryptoApi.chm=No
+C:\WINDOWS\SYSTEM\hhctrl.ocx=No
+C:\WINDOWS\SYSTEM\itss.dll=No
+C:\WINDOWS\SYSTEM\itircl.dll=No
+C:\WINDOWS\SYSTEM\HH.EXE=No
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\rsaenh.dll=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\enhsig.dll=Yes
+
+[Package|DepEzCryptoApi|Configure Registry Files]
+Applicable=
+
+[Package|DepEzCryptoApi|Configure Remote Servers]
+Applicable=
+
+[Package|DepEzCryptoApi|Install Locations]
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\EzCryptoApi.ocx=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=$(WinSysPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\rsaenh.dll=$(WinSysPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\enhsig.dll=$(WinSysPath)
+
+[Package|DepEzCryptoApi|Configure Shared Files]
+Applicable=
+
+[Package|DepEzCryptoApi|DepFile]
+DepCabFile=EzCryptoApi.CAB
+DepCabRun=EzCryptoApi.INF
+
+[Package|DepEzCryptoApi|Package]
+PackageFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test
+ProjectFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test
+ServerSideCab=
+File1=C:\My Documents\Visual Basic\ActiveX\Activex Control\Copy of CryptoApi\Copy of Test\EzCryptoApi.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
